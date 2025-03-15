@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/179206202108683991/fd22d65f08b5426fa76739057de0eb04/artifacts
+end_time: 1742022943278
+entry_point_name: ''
+experiment_id: '179206202108683991'
+lifecycle_stage: active
+run_id: fd22d65f08b5426fa76739057de0eb04
+run_name: dazzling-asp-844
+run_uuid: fd22d65f08b5426fa76739057de0eb04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742022933926
+status: 3
+tags: []
+user_id: swapnil8251

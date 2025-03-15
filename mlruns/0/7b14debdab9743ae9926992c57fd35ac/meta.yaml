@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7b14debdab9743ae9926992c57fd35ac/artifacts
+end_time: 1742020604114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b14debdab9743ae9926992c57fd35ac
+run_name: clean-koi-787
+run_uuid: 7b14debdab9743ae9926992c57fd35ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742020603682
+status: 4
+tags: []
+user_id: swapnil8251

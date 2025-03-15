@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c096febe5a17462ba96246521c70f8e9/artifacts
+end_time: 1742017957004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c096febe5a17462ba96246521c70f8e9
+run_name: stately-ox-929
+run_uuid: c096febe5a17462ba96246521c70f8e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742017956935
+status: 3
+tags: []
+user_id: swapnil8251

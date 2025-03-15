@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4ece8c34c79840eba956d08ece087c73/artifacts
+end_time: 1742020925048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ece8c34c79840eba956d08ece087c73
+run_name: enthused-loon-617
+run_uuid: 4ece8c34c79840eba956d08ece087c73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742020924743
+status: 3
+tags: []
+user_id: swapnil8251

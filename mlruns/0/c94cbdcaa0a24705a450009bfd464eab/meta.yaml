@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c94cbdcaa0a24705a450009bfd464eab/artifacts
+end_time: 1742020775033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c94cbdcaa0a24705a450009bfd464eab
+run_name: amazing-midge-601
+run_uuid: c94cbdcaa0a24705a450009bfd464eab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742020774687
+status: 3
+tags: []
+user_id: swapnil8251

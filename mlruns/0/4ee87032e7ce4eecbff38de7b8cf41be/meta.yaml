@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4ee87032e7ce4eecbff38de7b8cf41be/artifacts
+end_time: 1742019611154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ee87032e7ce4eecbff38de7b8cf41be
+run_name: wistful-ram-26
+run_uuid: 4ee87032e7ce4eecbff38de7b8cf41be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742019611025
+status: 4
+tags: []
+user_id: swapnil8251

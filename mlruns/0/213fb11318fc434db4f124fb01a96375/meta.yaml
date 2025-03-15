@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/213fb11318fc434db4f124fb01a96375/artifacts
+end_time: 1742020336513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 213fb11318fc434db4f124fb01a96375
+run_name: puzzled-crow-174
+run_uuid: 213fb11318fc434db4f124fb01a96375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742020336377
+status: 4
+tags: []
+user_id: swapnil8251

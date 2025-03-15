@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aeba11148edf4f42a418cdfe45a79c3c/artifacts
+end_time: 1742017342031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aeba11148edf4f42a418cdfe45a79c3c
+run_name: lyrical-owl-966
+run_uuid: aeba11148edf4f42a418cdfe45a79c3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742017341969
+status: 3
+tags: []
+user_id: swapnil8251

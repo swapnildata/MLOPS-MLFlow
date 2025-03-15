@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/485388873728193021/a35c4a6afe5b487895bd0549c80407e7/artifacts
+end_time: 1742021988777
+entry_point_name: ''
+experiment_id: '485388873728193021'
+lifecycle_stage: active
+run_id: a35c4a6afe5b487895bd0549c80407e7
+run_name: intelligent-kit-522
+run_uuid: a35c4a6afe5b487895bd0549c80407e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742021988135
+status: 3
+tags: []
+user_id: swapnil8251

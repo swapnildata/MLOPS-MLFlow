@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b5da4160a6574cf58ceea28617df015e/artifacts
+end_time: 1742020486581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5da4160a6574cf58ceea28617df015e
+run_name: righteous-donkey-42
+run_uuid: b5da4160a6574cf58ceea28617df015e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742020486482
+status: 4
+tags: []
+user_id: swapnil8251

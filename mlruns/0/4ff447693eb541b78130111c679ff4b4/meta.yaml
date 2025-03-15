@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4ff447693eb541b78130111c679ff4b4/artifacts
+end_time: 1742021197590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ff447693eb541b78130111c679ff4b4
+run_name: exultant-dog-724
+run_uuid: 4ff447693eb541b78130111c679ff4b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742021194985
+status: 3
+tags: []
+user_id: swapnil8251
